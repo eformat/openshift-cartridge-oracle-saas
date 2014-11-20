@@ -25,4 +25,4 @@ Group-Overrides:
   - oracle-1.0
   - web_framework
 
-Source-Url: https://github.com/gshipley/openshift-cartridge-oracle-saas.git
+Source-Url: https://github.com/eformat/openshift-cartridge-oracle-saas.git
